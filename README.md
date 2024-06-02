@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @Zainulabdin-turkmen
+- 👋 Hi, I’m Zainulabdin Turkmen
 - 👀 I’m interested in coding and learning new things
 - 🌱 I’m currently learning  CSS and JavaScript 
 - 💞️ I’m looking to collaborate on ...
