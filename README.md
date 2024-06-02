@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 👋 Hi, I’m @MuhammadTurkmen
+- 👋 Hi, I’m @Zainulabdin-turkmen
 - 👀 I’m interested in coding and learning new things
-- 🌱 I’m currently learning  React.js 
+- 🌱 I’m currently learning  CSS and JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
